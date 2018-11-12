@@ -36,6 +36,10 @@ In activity.main xml we have to add the following code:
 </LinearLayout>
 
 
+![one](https://user-images.githubusercontent.com/39096090/48328630-e0caff80-e612-11e8-9928-7ec617f5a015.JPG)
+
+
+
 ## Step-3
 
 res -> new-> android resource directory -> select raw
@@ -105,6 +109,7 @@ public class MainActivity extends Activity {
         stopPlayer();
     }
 }
+
 
  
 
